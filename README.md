@@ -40,6 +40,14 @@ My life with web programming started with a lot of SQL stuff to debug. I worked 
   <img src='./Imgs/Stacks/jest.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Jest Logo'/>
 </div>
 
+### Tools & Techs
+<div style='display:flex; gap:10px'>
+  <img src='./Imgs/Stacks/Docker.png' style='width:60px;height:60px;border-radius:8px;' alt='Docker Logo'/>
+  <img src='./Imgs/Stacks/git.png' style='width:60px;height:60px;border-radius:8px;' alt='Git Logo'/>
+  <img src='./Imgs/Stacks/github.png' style='width:60px;height:60px;' alt='github logo'/>
+  <img src='./Imgs/Stacks/gitlab.png' style='width:60px;height:60px;' alt='gitlab logo'/>
+</div>
+
 
 <Footer style='margin-top:40px;'>
 

@@ -16,7 +16,7 @@
     My E-mail
   </a>
 </div>
-My life with web programming started with a lot of SQL stuff to debug. I worked for companies where all the business logic was inside stored procedures, triggers, views, and functions - and man - I started to love that. For me, it was just like a quiz game - like Sudoku or chess. So then, I started learning everything that I could - and geez, it was a lot. Time passed and I decided to focus on something. I�m not the Rain Man in programming so I had to focus. Now - let me show you my�
+My life with web programming started with a lot of SQL stuff to debug. I worked for companies where all the business logic was inside stored procedures, triggers, views, and functions - and man - I started to love that. For me, it was just like a quiz game - like Sudoku or chess. So then, I started learning everything that I could - and geez, it was a lot. Time passed and I decided to focus on something. I'm not the Rain Man in programming so I had to focus. Now - let me show you my...
 
 ## Super-powers
 ### Programming Languages

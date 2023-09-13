@@ -16,7 +16,7 @@
     My E-mail
   </a>
 </div>
-🚀 Once upon a time in the land of web programming, I was thrown into the deep end, swimming with SQL sharks! 🦈 Working for companies where the business logic was like a secret society of stored procedures, triggers, views, and functions. And guess what? I fell head over heels for it! 🥰 For me, it was like playing a thrilling game of Sudoku or a strategic match of chess. 🎲🎮 I then embarked on a quest to learn ALL the things, and boy, was my brain thirsty! 🧠💦 But hey, I'm no programming superhero, so I had to pick my battles. Now, drumroll please... 🥁 Let me unveil my..
+🚀 Once upon a time in the land of web programming, I was thrown into the deep end, swimming with SQL sharks! 🦈 Working for companies where the business logic was like a secret society of stored procedures, triggers, views, and functions. And guess what? I fell head over heels for it! 🥰 For me, it was like playing a thrilling game of Sudoku or a strategic match of chess. 🎲🎮 I then embarked on a quest to learn ALL the things - Backend, Frontend,DevOPS, NOSQL - , and boy, was my brain thirsty! 🧠💦 But hey, I'm no programming superhero, so I had to pick my battles. Now, drumroll please... 🥁 Let me unveil my..
 
 ## Super-powers
 ### Programming Languages

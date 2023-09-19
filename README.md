@@ -35,6 +35,8 @@
 <div style='display:flex; gap:10px'>
   <img src='./Imgs/Stacks/react.jpg' style='width:60px;height:60px;border-radius:8px;' alt='React Logo'/>
   <img src='./Imgs/Stacks/nextjs.jpg' style='width:60px;height:60px;border-radius:8px;' alt='NextJS Logo'/>
+  <img src='./Imgs/Stacks/node.png' style='width:60px;height:60px;border-radius:8px;' alt='Node Logo'/>
+  <img src='./Imgs/Stacks/radix.png' style='width:60px;height:60px;border-radius:8px;' alt='Radix Logo'/>
   <img src='./Imgs/Stacks/tailwind.jpg' style='width:60px;height:60px;' alt='Tailwind Css logo'/>
   <img src='./Imgs/Stacks/styledComponents.jpg' style='width:60px;height:60px;' alt='Styled Components Logo'/>
   <img src='./Imgs/Stacks/jest.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Jest Logo'/>

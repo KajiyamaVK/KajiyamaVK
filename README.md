@@ -22,25 +22,25 @@
 ### Programming Languages & some more...
 
 
-  <span>
+  <span style='display:inline-block'>
     <img src='./Imgs/Stacks/javascript.jpg' style='width:60px;height:60px; border-radius:8px;' alt='Javascript Logo'/>
     <p>Javascript</p>
   </span>
     
   
-  <span>
+  <span style='display:inline-block'>
     <img src='./Imgs/Stacks/typescript.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Typescript Logo'/>
     <p>Typescript</p>
   </span>
-  <span>
+  <span style='display:inline-block'>
     <img src='./Imgs/Stacks/dotnet.png' style='width:60px;height:60px;' alt='C# Logo'/>
     <br>C#
   </span>
-  <span>
+  <span style='display:inline-block'>
     <img src='./Imgs/Stacks/python.png' style='width:60px;height:60px;' alt='Python Logo'/>
     <br>Python
   </span>
-  <span>
+  <span style='display:inline-block'>
     <img src='./Imgs/Stacks/sql.png' style='width:60px;height:60px;' alt='SQL Logo'/><br>
     SQL
   </span>

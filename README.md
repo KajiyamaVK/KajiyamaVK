@@ -22,10 +22,10 @@
 ### Programming Languages & some more...
 
 <div style='display:flex; gap:10px'>
-  <div>
+  
     <img src='./Imgs/Stacks/javascript.jpg' style='width:60px;height:60px; border-radius:8px;' alt='Javascript Logo'/>
     <br>Javascript
-  </div>
+  
   <div>
     <img src='./Imgs/Stacks/typescript.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Typescript Logo'/>
     <br>Typescript

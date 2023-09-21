@@ -6,7 +6,7 @@
     My website
   </a>
 
-  <a href='https://linkedin.com/in/victor-kajiyama' style='display: flex;align-items:center; gap:5px'>
+  <a href='https://linkedin.com/in/victor-kajiyama' style='align-items:center; gap:5px'>
     <img src='./Imgs/linkedin.png' style='width:20px;height:20px;' alt='linkedin Logo'/>
     My LinkedIn
   </a>

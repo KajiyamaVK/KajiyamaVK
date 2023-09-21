@@ -24,7 +24,7 @@
 
   <span>
     <img src='./Imgs/Stacks/javascript.jpg' style='width:60px;height:60px; border-radius:8px;' alt='Javascript Logo'/>
-    <br>Javascript
+    Javascript
   </span>
     
   

@@ -27,84 +27,36 @@
     <img src='./Imgs/Stacks/typescript.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Typescript Logo'/>
     <img src='./Imgs/Stacks/dotnet.png' style='width:60px;height:60px;' alt='C# Logo'/>
     <img src='./Imgs/Stacks/python.png' style='width:60px;height:60px;' alt='Python Logo'/>
-    <img src='./Imgs/Stacks/sql.png' style='width:60px;height:60px;' alt='SQL Logo'/><br>
+    <img src='./Imgs/Stacks/sql.png' style='width:60px;height:60px;' alt='SQL Logo'/>
 </div>
 
 ### Frameworks, libs & others
 <div style='display:flex; gap:10px'>
-  <div>
-    <img src='./Imgs/Stacks/css.png' style='width:60px;height:60px;' alt='CSS Logo'/><br>
-    CSS
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/html.png' style='width:60px;height:60px;' alt='HTML Logo'/><br>
-    HTML
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/react.jpg' style='width:60px;height:60px;border-radius:8px;' alt='React Logo'/><br>
-    ReactJS
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/nextjs.jpg' style='width:60px;height:60px;border-radius:8px;' alt='NextJS Logo'/><br>
-    NextJS
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/node.png' style='width:60px;height:60px;border-radius:8px;' alt='Node Logo'/><br>
-    Node
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/radix.png' style='width:60px;height:60px;border-radius:8px;' alt='Radix Logo'/><br>
-    Radix
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/tailwind.jpg' style='width:60px;height:60px;' alt='Tailwind Css logo'/><br>
-    TailwindCSS
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/styledComponents.jpg' style='width:60px;height:60px;' alt='Styled Components Logo'/><br>
-    Styled<br> Components
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/stitches.jpg' style='width:60px;height:60px;' alt='Stitches Logo'/><br>
-    Stitches
-  </div>
-  <div>
-    <img src='./Imgs/Stacks/jest.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Jest Logo'/><br>
-    Jest
-  </div>
+    <img src='./Imgs/Stacks/css.png' style='width:60px;height:60px;' alt='CSS Logo'/>
+    <img src='./Imgs/Stacks/html.png' style='width:60px;height:60px;' alt='HTML Logo'/>
+    <img src='./Imgs/Stacks/react.jpg' style='width:60px;height:60px;border-radius:8px;' alt='React Logo'/>
+    <img src='./Imgs/Stacks/nextjs.jpg' style='width:60px;height:60px;border-radius:8px;' alt='NextJS Logo'/>
+    <img src='./Imgs/Stacks/node.png' style='width:60px;height:60px;border-radius:8px;' alt='Node Logo'/>
+    <img src='./Imgs/Stacks/radix.png' style='width:60px;height:60px;border-radius:8px;' alt='Radix Logo'/>
+    <img src='./Imgs/Stacks/tailwind.jpg' style='width:60px;height:60px;' alt='Tailwind Css logo'/>
+    <img src='./Imgs/Stacks/styledComponents.jpg' style='width:60px;height:60px;' alt='Styled Components Logo'/>
+    <img src='./Imgs/Stacks/stitches.jpg' style='width:60px;height:60px;' alt='Stitches Logo'/>
+    <img src='./Imgs/Stacks/jest.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Jest Logo'/>
 </div>
 
 ### Tools & Techs
 <div style='display:flex; gap:10px'>
-<div>
-  <img src='./Imgs/Stacks/sqlServer.png' style='width:60px;height:60px;' alt='sql server Logo'/><br>
-  MSSQL
-  </div>
-  <div>
-  <img src='./Imgs/Stacks/oracle.jpg' style='width:60px;height:60px;' alt='Oracle Logo'/><br>
-  Oracle
-  </div>
-  <div>
+  <img src='./Imgs/Stacks/sqlServer.png' style='width:60px;height:60px;' alt='sql server Logo'/>
+  <img src='./Imgs/Stacks/oracle.jpg' style='width:60px;height:60px;' alt='Oracle Logo'/>
   <img src='./Imgs/Stacks/Docker.png' style='width:60px;height:60px;border-radius:8px;' alt='Docker Logo' alt='Docker'> 
-  <br>Docker
-  </div>
-  <div>
-  <img src='./Imgs/Stacks/git.png' style='width:60px;height:60px;border-radius:8px;' alt='Git'><br>
-  Git
-  </div>
-  <div> 
-  <img src='./Imgs/Stacks/github.png' style='width:60px;height:60px;' alt='github logo'/><br>
-  Github
-  </div>
-  <div>
-  <img src='./Imgs/Stacks/gitlab.png' style='width:60px;height:60px;' alt='gitlab logo'/><br>
-  Gitlab
-  </div>
+  <img src='./Imgs/Stacks/git.png' style='width:60px;height:60px;border-radius:8px;' alt='Git'>
+  <img src='./Imgs/Stacks/github.png' style='width:60px;height:60px;' alt='github logo'/>
+  <img src='./Imgs/Stacks/gitlab.png' style='width:60px;height:60px;' alt='gitlab logo'/>
 </div>
 
 ### Ongoing Learning
 
-  <img src='./Imgs/Stacks/native.png' style='width:60px;height:60px;border-radius:8px;' alt='React Native Logo'/><br>
+  <img src='./Imgs/Stacks/native.png' style='width:60px;height:60px;border-radius:8px;' alt='React Native Logo'/>
   React Native
 
 

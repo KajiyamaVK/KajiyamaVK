@@ -21,10 +21,12 @@
 ## Super-powers
 ### Programming Languages & some more...
 
-<div style='display:flex; gap:10px'>
-  
+
+  <span>
     <img src='./Imgs/Stacks/javascript.jpg' style='width:60px;height:60px; border-radius:8px;' alt='Javascript Logo'/>
     <br>Javascript
+  </span>
+    
   
   <div>
     <img src='./Imgs/Stacks/typescript.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Typescript Logo'/>
@@ -42,7 +44,7 @@
     <img src='./Imgs/Stacks/sql.png' style='width:60px;height:60px;' alt='SQL Logo'/><br>
     SQL
   </div>
-</div>
+
 
 ### Frameworks, libs & others
 <div style='display:flex; gap:10px'>

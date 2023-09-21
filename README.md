@@ -24,13 +24,13 @@
 
   <span>
     <img src='./Imgs/Stacks/javascript.jpg' style='width:60px;height:60px; border-radius:8px;' alt='Javascript Logo'/>
-    Javascript
+    <p>Javascript</p>p>
   </span>
     
   
   <span>
     <img src='./Imgs/Stacks/typescript.jpg' style='width:60px;height:60px;border-radius:8px;' alt='Typescript Logo'/>
-    <br>Typescript
+    <p>Typescript</p>
   </span>
   <span>
     <img src='./Imgs/Stacks/dotnet.png' style='width:60px;height:60px;' alt='C# Logo'/>
